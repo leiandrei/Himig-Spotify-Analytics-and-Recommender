@@ -1,0 +1,13 @@
+# env/venv files
+.venv
+.env
+
+# python caches
+__pycache__
+.cache
+
+# data
+data/
+
+# task readme
+TASKS.md
